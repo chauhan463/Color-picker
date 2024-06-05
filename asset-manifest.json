@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Color-picker/static/css/main.32edf7c4.chunk.css",
+    "main.js": "/Color-picker/static/js/main.f93fecf2.chunk.js",
+    "main.js.map": "/Color-picker/static/js/main.f93fecf2.chunk.js.map",
+    "runtime-main.js": "/Color-picker/static/js/runtime-main.eb92e38f.js",
+    "runtime-main.js.map": "/Color-picker/static/js/runtime-main.eb92e38f.js.map",
+    "static/js/2.3c5e5abe.chunk.js": "/Color-picker/static/js/2.3c5e5abe.chunk.js",
+    "static/js/2.3c5e5abe.chunk.js.map": "/Color-picker/static/js/2.3c5e5abe.chunk.js.map",
+    "index.html": "/Color-picker/index.html",
+    "precache-manifest.cd77502d081b40032586b53495a879be.js": "/Color-picker/precache-manifest.cd77502d081b40032586b53495a879be.js",
+    "service-worker.js": "/Color-picker/service-worker.js",
+    "static/css/main.32edf7c4.chunk.css.map": "/Color-picker/static/css/main.32edf7c4.chunk.css.map",
+    "static/js/2.3c5e5abe.chunk.js.LICENSE.txt": "/Color-picker/static/js/2.3c5e5abe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb92e38f.js",
+    "static/js/2.3c5e5abe.chunk.js",
+    "static/css/main.32edf7c4.chunk.css",
+    "static/js/main.f93fecf2.chunk.js"
+  ]
+}
